@@ -5,3 +5,4 @@ I am an embedded software developer, competent in AVR ATMega, ARM Cortex-M4 Tiva
 ## Skills
 * C
 * Python
+* Git
